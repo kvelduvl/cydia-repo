@@ -1,0 +1,16 @@
+Package: com.pagan.kvelltunes
+Version: 1.0~rc1
+Architecture: iphoneos-arm
+Maintainer: KVELL
+Installed-Size: 320
+Depends: firmware (>= 4.0)
+Filename: debs/KvellTunes_1.0-RC_FINAL_iphoneos-arm.deb
+Size: 74802
+MD5sum: 0a58f30e06a139c7b6a38ff5d4145f6f
+SHA1: be4b8d30defce15947470bd4e0f838785780e1d7
+SHA256: af2238f9014db174daa58f05ba90e3937a48373e3be5e254c5d5ee4c51d575dd
+Section: Multimedia
+Description: Folder-based music player for legacy iOS
+Author: KVELL
+Name: KvellTunes
+
